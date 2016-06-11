@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SpiderTask2</string>
+    <string-array name="Department">
+        <item>EEE</item>
+        <item>ECE</item>
+        <item>CSE</item>
+        <item>MME</item>
+        <item>Mech</item>
+        <item>Civil</item>
+        <item>Chemical</item>
+        <item>ICE</item>
+        <item>Archi</item>
+        <item>Prod</item>
+    </string-array>
+    <string name="spinner_default">Select department</string>
+</resources>
